@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @DoubleMice
 - 👀 I’m interested in system & visualization security.
 - 🌱 I’m currently focusing on some low level features of mobile product.
+- 💞️ Recently, i am also interested in browser security.
 - 📫 mailing me: doublemice@qq.com .
 
 <!---
